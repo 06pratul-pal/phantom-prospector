@@ -1,4 +1,4 @@
-# phantom-prospector
+# AI Lead Agent
 Autonomous AI Lead Generation Agent
 
 An AI-powered lead generation system that automatically discovers potential leads, extracts publicly available contact information, and generates personalized outreach messages.
